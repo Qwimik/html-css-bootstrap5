@@ -60,7 +60,7 @@ body {
   margin-left: 15px;
   transition: all 0.3s ease;
 }
-.btn_header-img:hover {
+.joinUs:hover .btn_header-img {
   transform: translateX(50%);
 }
 @media (max-width: 768px) {
